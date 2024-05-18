@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-- [x] - code
+- [x] - javascript code
